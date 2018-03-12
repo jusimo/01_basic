@@ -26,7 +26,7 @@
             </div>
         
         
-            <p>OPrivet</p>
+            <p>Privet</p>
             
         
         
